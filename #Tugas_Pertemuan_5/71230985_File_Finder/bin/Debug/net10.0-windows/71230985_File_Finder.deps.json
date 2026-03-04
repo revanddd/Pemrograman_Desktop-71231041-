@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "71230985_File_Finder/1.0.0": {
+        "runtime": {
+          "71230985_File_Finder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "71230985_File_Finder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
