@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <MyApplicationProperties>
+    <StartupForm>frmLogin</StartupForm>
+    <ShutdownMode>1</ShutdownMode>
+    <EnableVisualStyles>true</EnableVisualStyles>
+    <AuthenticationMode>Windows</AuthenticationMode>
+    <ApplicationType>0</ApplicationType>
+    <SaveMySettingsOnExit>false</SaveMySettingsOnExit>
+  </MyApplicationProperties>
+</Project>
