@@ -1,0 +1,52 @@
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.exe
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.deps.json
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.runtimeconfig.json
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.dll
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.pdb
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.Form1.resources
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.vbproj.GenerateResource.cache
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.AssemblyInfoInputs.cache
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.AssemblyInfo.vb
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.vbproj.CoreCompileInputs.cache
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.dll
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\refint\PENGOLAH_VEKTOR.dll
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.pdb
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.genruntimeconfig.cache
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\ref\PENGOLAH_VEKTOR.dll
+D:\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.vbproj.ResolveComReference.cache
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.exe
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.deps.json
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.runtimeconfig.json
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.dll
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.pdb
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.vbproj.ResolveComReference.cache
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.Form1.resources
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.vbproj.GenerateResource.cache
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.AssemblyInfoInputs.cache
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.AssemblyInfo.vb
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.vbproj.CoreCompileInputs.cache
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.sourcelink.json
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.dll
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\refint\PENGOLAH_VEKTOR.dll
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.pdb
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.genruntimeconfig.cache
+D:\Progdeks\Pemrograman_Desktop\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\ref\PENGOLAH_VEKTOR.dll
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.exe
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.deps.json
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.runtimeconfig.json
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.dll
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\bin\Debug\net8.0-windows\PENGOLAH_VEKTOR.pdb
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.vbproj.ResolveComReference.cache
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.Form1.resources
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.vbproj.GenerateResource.cache
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.AssemblyInfoInputs.cache
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.AssemblyInfo.vb
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.vbproj.CoreCompileInputs.cache
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.dll
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\refint\PENGOLAH_VEKTOR.dll
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.pdb
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\PENGOLAH_VEKTOR.genruntimeconfig.cache
+D:\MataKuliah\ProgDesk\Pemrograman_Desktop-main\Pemrograman_Desktop-main\#Folder pertemuan 10\PENGOLAH_VEKTOR\PENGOLAH_VEKTOR\obj\Debug\net8.0-windows\ref\PENGOLAH_VEKTOR.dll
